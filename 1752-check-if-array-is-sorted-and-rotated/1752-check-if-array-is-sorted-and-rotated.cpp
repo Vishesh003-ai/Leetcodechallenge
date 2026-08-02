@@ -13,7 +13,7 @@ public:
         }
 
         if (pivotidx == -1) return true;
-      if (count == 0) return true;
+      
 
         if (count <=1 && arr[n - 1] <= arr[0]) return true;
         return false;
