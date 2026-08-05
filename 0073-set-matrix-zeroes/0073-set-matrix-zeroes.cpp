@@ -1,36 +1,49 @@
 class Solution {
 public:
-    // Function to set entire row and column to 0 if an element in the matrix is 0
-    void setZeroes(vector<vector<int>>& matrix) {
-        // Get number of rows
-        int m = matrix.size();
-        // Get number of columns
-        int n = matrix[0].size();
-
-        // Create row marker array
-        vector<int> row(m, 0);
-        // Create column marker array
-        vector<int> col(n, 0);
-
-        // First pass: mark rows and columns that need to be zeroed
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                // If element is zero, mark its row and column
-                if (matrix[i][j] == 0) {
-                    row[i] = 1;
-                    col[j] = 1;
-                }
-            }
+    void setZeroes(vector<vector<int>>& arr) {
+        int m=arr.size();
+        int n=arr[0].size();
+      bool firstrowzero=false;
+      bool firstcolzero=false;
+     for(int j=0;j<n;j++){ 
+        if(arr[0][j]==0){
+            firstrowzero=true;
+            break;
         }
-
-        // Second pass: set cells to zero based on markers
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                // If the row or column is marked, set cell to zero
-                if (row[i] == 1 || col[j] == 1) {
-                    matrix[i][j] = 0;
-                }
-            }
+     }
+     for(int i=0;i<m;i++){ 
+        if(arr[i][0]==0){
+            firstcolzero=true;
+            break;
         }
+     }
+     
+     for(int i=1;i<m;i++){
+        for(int j=1;j<n;j++){
+         if(arr[i][j]==0){
+            arr[0][j]=0;
+            arr[i][0]=0;
+         }
+        }
+     }
+for(int i=1;i<m;i++){
+        for(int j=1;j<n;j++){
+     if(arr[0][j]==0||arr[i][0]==0){
+        arr[i][j]=0;
+     }
+
+        }
+}
+     if(firstrowzero){
+        for (int j = 0; j < n; j++) {
+                arr[0][j] = 0;
+            }
+     }
+     if(firstcolzero){
+        for(int i=0;i<m;i++){
+            arr[i][0]=0;
+        }
+     }
+
     }
 };
