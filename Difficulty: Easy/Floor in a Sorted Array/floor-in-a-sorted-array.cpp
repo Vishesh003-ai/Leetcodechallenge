@@ -1,32 +1,21 @@
 class Solution {
-  public:
+public:
     int findFloor(vector<int>& arr, int x) {
-    
-        
-        int n=arr.size();
-        int s=0;
-        int e=n-1;
-        int ans=-1;
-        while(s<=e){
-           int mid=s+(e-s)/2;
-           if(arr[mid]==x) ans=mid;
-          if(arr[mid]>x){
-              
-              e=mid-1;
-          }
-    else{
-        ans=mid;
-        s=mid+1;
-    }
-            
-           
-                
+        int s = 0;
+        int e = arr.size() - 1;
+        int ans = -1;
+
+        while (s <= e) {
+            int mid = s + (e - s) / 2;
+
+            if (arr[mid] <= x) {
+                ans = mid;      // possible floor
+                s = mid + 1;    // try to find a larger valid element
+            } else {
+                e = mid - 1;    // current element is too large
+            }
         }
+
         return ans;
-    
-    
-    
-    
-        
     }
 };
