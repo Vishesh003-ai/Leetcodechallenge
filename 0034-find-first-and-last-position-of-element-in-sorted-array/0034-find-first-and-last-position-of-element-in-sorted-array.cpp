@@ -6,7 +6,7 @@ public:
         int e=n-1;
         int firstoc=-1;
         int lastoc=-1;
-        if(arr.empty()) return {-1,-1};
+        //if(arr.empty()) return {-1,-1};
         while(s<=e){
          int mid=s+(e-s)/2;
          if(arr[mid]==target){
