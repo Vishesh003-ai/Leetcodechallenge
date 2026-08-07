@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0283-move-zeroes) |
@@ -100,5 +101,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
