@@ -2,15 +2,14 @@ class Solution {
 public:
      bool possiblesoln(vector<int>&arr,int soln,int m,int k){
         int n=arr.size();
-        int c=0;
+        int count=0;
         int adj=0;
         if((long long)m*k>n) return false;
          for(int i=0;i<n;i++){
-
             if(arr[i]<=soln){
                adj++;
                if(adj==k){
-                c++;
+                count++;
                 adj=0;
                }
             }
@@ -18,9 +17,8 @@ public:
             adj=0;
            }
      }
-     return c>=m;
+     return count>=m;
      }
-
     int minDays(vector<int>& arr, int m, int k) {
         int s=*min_element(arr.begin(),arr.end());
         int e=*max_element(arr.begin(),arr.end());
