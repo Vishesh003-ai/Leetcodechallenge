@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0169-majority-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
