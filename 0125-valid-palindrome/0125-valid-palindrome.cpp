@@ -17,17 +17,13 @@ public:
     bool isPalindrome(string s) {
         int i = 0;
         int j = s.length() - 1;
-
         while (i < j) {
-            // Move left pointer forward if current char is invalid
             if (!isvalidchar(s[i])) {
                 i++;
             }
-            // Move right pointer backward if current char is invalid
             else if (!isvalidchar(s[j])) {
                 j--;
             }
-            // Both are valid chars: compare them (converted to lowercase)
             else {
                 if (toLower(s[i]) != toLower(s[j])) {
                     return false;
