@@ -1,25 +1,28 @@
 class Solution {
 public:
+     void makemapping(unordered_map<char,char>&mapping,string &key){
+        int start='a';
+        for(int i=0;i<key.length();i++){
+            char ch=key[i];
+           if(ch!=' '&&mapping.find(ch)==mapping.end()){ 
+            mapping[ch]=start;
+            start++;}
+        }
+     }
+     
+     string usemapping(unordered_map<char,char>&mapping,string message){
+        string s="";
+        for(int i=0;i<message.length();i++){
+            char ch=message[i];
+            if(ch==' ') s.push_back(' ');
+            else s.push_back(mapping[ch]);
+        }
+return s;
+     }
     string decodeMessage(string key, string message) {
-        // Direct lookup table for all 256 ASCII characters
-        char mapping[256] = {0};
-        char start = 'a';
-
-        // Step 1: Create mapping
-        for (char ch : key) {
-            if (ch != ' ' && mapping[ch] == 0) {
-                mapping[ch] = start;
-                start++;
-            }
-        }
-
-        // Step 2: Decode message in-place or into a new string
-        for (int i = 0; i < message.length(); i++) {
-            if (message[i] != ' ') {
-                message[i] = mapping[message[i]];
-            }
-        }
-
-        return message;
+        unordered_map<char,char>mapping;
+        makemapping(mapping,key);
+        string ans=usemapping(mapping,message);
+        return ans;
     }
 };
