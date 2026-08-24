@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0875-koko-eating-bananas) |
+| [0890-find-and-replace-pattern](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0890-find-and-replace-pattern) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0791-custom-sort-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0791-custom-sort-string) |
+| [0890-find-and-replace-pattern](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0890-find-and-replace-pattern) |
 | [2325-decode-the-message](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2325-decode-the-message) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0791-custom-sort-string) |
+| [0890-find-and-replace-pattern](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0890-find-and-replace-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
