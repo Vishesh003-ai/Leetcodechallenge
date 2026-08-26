@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -186,7 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
