@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0890-find-and-replace-pattern) |
 | [2325-decode-the-message](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2325-decode-the-message) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0539-minimum-time-difference) |
+| [0767-reorganize-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0791-custom-sort-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0169-majority-element) |
+| [0767-reorganize-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0767-reorganize-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0767-reorganize-string) |
 ## String
 |  |
 | ------- |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0917-reverse-only-letters) |
@@ -198,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
