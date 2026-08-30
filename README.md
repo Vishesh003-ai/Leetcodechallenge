@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0767-reorganize-string) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0345-reverse-vowels-of-a-string) |
