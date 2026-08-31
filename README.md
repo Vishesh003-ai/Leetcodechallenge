@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0415-add-strings) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0128-longest-consecutive-sequence) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0049-group-anagrams) |
