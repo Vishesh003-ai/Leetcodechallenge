@@ -1,22 +1,20 @@
 class Solution {
 public:
- static bool mycomp(string a,string b){
-    string t1=a+b;
-    string t2=b+a;
-    return t1>t2;
- }
-
-
+    static bool mycomp(const string& a, const string& b) {
+        return a + b > b + a;
+    }
     string largestNumber(vector<int>& nums) {
-        vector<string>snums;
-        for(auto n :nums){
+        vector<string> snums;
+        for (int n : nums) {
             snums.push_back(to_string(n));
         }
-        sort(snums.begin(),snums.end(),mycomp);
-        if(snums[0]=="0") return "0";
-        string ans="";
-        for(auto n:snums){
-            ans+=n;
+        sort(snums.begin(), snums.end(), mycomp);
+        if (snums[0] == "0") {
+            return "0";
+        }
+        string ans;
+        for (const string& s : snums) {
+            ans += s;
         }
         return ans;
     }
