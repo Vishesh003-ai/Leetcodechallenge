@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0539-minimum-time-difference) |
+| [1903-largest-odd-number-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0767-reorganize-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2325-decode-the-message](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2325-decode-the-message) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
