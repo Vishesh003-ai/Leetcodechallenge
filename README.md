@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2325-decode-the-message](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2325-decode-the-message) |
@@ -240,11 +241,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
