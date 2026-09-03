@@ -1,28 +1,24 @@
 class Solution {
 public:
     int beautySum(string s) {
-        int n = s.length();
         int sum = 0;
 
-        // Loop over all substrings
-        for (int i = 0; i < n; i++) {
-            unordered_map<char, int> freq;
+        for (int i = 0; i < s.length(); i++) {
+            int freq[26] = {0};//Reset happens here for new substring 
 
-            for (int j = i; j < n; j++) {
-                // Increase frequency of current character
-                freq[s[j]]++;
+            for (int j = i; j < s.length(); j++) {
+                freq[s[j] - 'a']++;
 
-                int maxi = INT_MIN;
-                int mini = INT_MAX;
+                int maxFreq = 0;
+                int minFreq = INT_MAX;
 
-                // Find max and min frequency
-                for (auto it : freq) {
-                    mini = min(mini, it.second);
-                    maxi = max(maxi, it.second);
+                for (int k = 0; k < 26; k++) {
+                    if (freq[k] > 0) {
+                        maxFreq = max(maxFreq, freq[k]);
+                        minFreq = min(minFreq, freq[k]);
+                    }
                 }
-
-                // Add difference to sum
-                sum += (maxi - mini);
+                sum += maxFreq - minFreq;
             }
         }
 
