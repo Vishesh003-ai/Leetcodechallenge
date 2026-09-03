@@ -1,6 +1,6 @@
 class Solution {
 public:
-static bool mpcmp(pair<int,char>a,pair<int,char>b){
+static bool mpcmp(pair<int,char>&a,pair<int,char>&b){
     return a.first>b.first;
 }
     string frequencySort(string s) {
