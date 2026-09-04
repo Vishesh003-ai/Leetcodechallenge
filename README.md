@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0676-implement-magic-dictionary](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0676-implement-magic-dictionary) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0767-reorganize-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0676-implement-magic-dictionary](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0676-implement-magic-dictionary) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
