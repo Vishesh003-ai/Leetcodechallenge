@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0890-find-and-replace-pattern) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0890-find-and-replace-pattern) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2325-decode-the-message](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2325-decode-the-message) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0767-reorganize-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0187-repeated-dna-sequences) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0992-subarrays-with-k-different-integers) |
 ## Rolling Hash
 |  |
 | ------- |
