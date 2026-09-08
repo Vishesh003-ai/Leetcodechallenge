@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0520-detect-capital) |
