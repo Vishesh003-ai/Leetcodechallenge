@@ -1,35 +1,26 @@
 class Solution {
 public:
     int compress(vector<char>& chars) {
-        int read=0;
-        int write=0;
-        int n=chars.size();
-        while(read<n){
-         int count=0;
-          char ch=chars[read];
-         while(read<n&&chars[read]==ch){
-            count++;
-            read++;
-         }
-          chars[write++]=ch;
-          if(count>1){
-            int start=write;
-            while(count>0){
-                chars[write++]=(count%10)+'0';
-                count/=10;
+        int n = chars.size();
+        int index = 0;
+        for(int i = 0; i < n; ) {
+            char ch = chars[i];
+            int count = 0;
+            // Count consecutive same characters
+            while(i < n && chars[i] == ch) {
+                count++;
+                i++;
             }
-            int left=start;
-            int right=write-1;
-            while(left<right){
-                swap(chars[left++],chars[right--]);
+            // Put character
+            chars[index++] = ch;
+            // Put frequency if > 1
+            if(count > 1) {
+                string s = to_string(count);
+                for(char c : s) {
+                    chars[index++] = c;
+                }
             }
-          }
-
-
-
         }
-return write;
-
-
+        return index;
     }
 };
