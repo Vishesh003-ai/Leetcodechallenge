@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0539-minimum-time-difference) |
 | [1903-largest-odd-number-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1903-largest-odd-number-in-string) |
@@ -335,4 +337,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
