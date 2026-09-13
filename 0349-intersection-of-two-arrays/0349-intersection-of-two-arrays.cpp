@@ -6,6 +6,7 @@ vector<int>ans;
     for(int x:nums2){
         if(st.count(x)){
 ans.push_back(x);
+//to avoid adding duplicates in ans erase use kia
 st.erase(x);
         }
 
