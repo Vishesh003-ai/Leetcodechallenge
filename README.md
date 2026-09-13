@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0539-minimum-time-difference) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0680-valid-palindrome-ii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0539-minimum-time-difference) |
 | [0767-reorganize-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0767-reorganize-string) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0704-binary-search) |
