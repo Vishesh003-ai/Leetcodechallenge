@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0925-long-pressed-name) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0647-palindromic-substrings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0767-reorganize-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1903-largest-odd-number-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2325-decode-the-message](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2325-decode-the-message) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
