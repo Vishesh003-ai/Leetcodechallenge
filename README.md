@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0187-repeated-dna-sequences) |
+| [0389-find-the-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0525-contiguous-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0539-minimum-time-difference) |
 | [0767-reorganize-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0767-reorganize-string) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0434-number-of-segments-in-a-string) |
