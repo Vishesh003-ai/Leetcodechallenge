@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0539-minimum-time-difference) |
+| [1175-prime-arrangements](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1175-prime-arrangements) |
 | [1903-largest-odd-number-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2523-closest-prime-numbers-in-range) |
@@ -370,16 +371,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0204-count-primes) |
+| [1175-prime-arrangements](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1175-prime-arrangements) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0204-count-primes) |
+| [1175-prime-arrangements](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1175-prime-arrangements) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0204-count-primes) |
+| [1175-prime-arrangements](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1175-prime-arrangements) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2523-closest-prime-numbers-in-range) |
 ## Quicksort
 |  |
