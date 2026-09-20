@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0890-find-and-replace-pattern) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1539-kth-missing-positive-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0539-minimum-time-difference) |
 | [1175-prime-arrangements](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1175-prime-arrangements) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2523-closest-prime-numbers-in-range) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0890-find-and-replace-pattern) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2325-decode-the-message](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2325-decode-the-message) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Binary Search
 |  |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0187-repeated-dna-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1248-count-number-of-nice-subarrays) |
 ## Rolling Hash
 |  |
 | ------- |
