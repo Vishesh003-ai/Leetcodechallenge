@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0917-reverse-only-letters) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0539-minimum-time-difference) |
+| [0541-reverse-string-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0647-palindromic-substrings) |
 | [0676-implement-magic-dictionary](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0676-implement-magic-dictionary) |
 | [0680-valid-palindrome-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0680-valid-palindrome-ii) |
