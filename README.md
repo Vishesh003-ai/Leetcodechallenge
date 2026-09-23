@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0917-reverse-only-letters) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0567-permutation-in-string) |
 | [0676-implement-magic-dictionary](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0676-implement-magic-dictionary) |
 | [0767-reorganize-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0791-custom-sort-string) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0647-palindromic-substrings) |
 | [0676-implement-magic-dictionary](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0676-implement-magic-dictionary) |
 | [0680-valid-palindrome-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0680-valid-palindrome-ii) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0187-repeated-dna-sequences) |
+| [0567-permutation-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1248-count-number-of-nice-subarrays) |
 ## Rolling Hash
