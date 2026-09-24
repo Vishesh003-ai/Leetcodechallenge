@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0539-minimum-time-difference) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1175-prime-arrangements](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1175-prime-arrangements) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1903-largest-odd-number-in-string) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -406,4 +408,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0075-sort-colors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
