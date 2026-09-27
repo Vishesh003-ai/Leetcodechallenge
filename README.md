@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0520-detect-capital) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0187-repeated-dna-sequences) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1248-count-number-of-nice-subarrays) |
