@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2594-minimum-time-to-repair-cars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
