@@ -5,7 +5,7 @@ public:
        if(arr[0] <= arr[n-1])
 
     return n-1;
-        int s=0;
+        int s=0; 
         int e=n-1;
         int pivot=-1;
         while(s<=e){
@@ -54,7 +54,6 @@ else{
     int e=n-1;
     ans=binarysearch(arr,target,s,e);
 }     
-
 return ans;
     }
 };
