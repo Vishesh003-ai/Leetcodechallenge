@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Two Pointers
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2523-closest-prime-numbers-in-range) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Bit Manipulation
