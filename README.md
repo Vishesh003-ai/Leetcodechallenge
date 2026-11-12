@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2594-minimum-time-to-repair-cars) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vishesh003-ai/Leetcodechallenge/tree/master/3875-construct-uniform-parity-array-i) |
